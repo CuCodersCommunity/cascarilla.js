@@ -1,0 +1,16 @@
+{
+  "name": "cascarilla",
+  "version": "1.0.0",
+  "description": "A library for giving your website good vibes 🤙✨.",
+  "main": "cascarilla.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arivvera/cascarilla.js.git"
+  },
+  "author": "Alejandro Rivera y Comunidad | arivera.dev@proton.me | https://arivvera.github.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arivvera/cascarilla.js/issues"
+  },
+  "homepage": "https://github.com/arivvera/cascarilla.js#readme"
+}

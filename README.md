@@ -1,1 +1,1 @@
-# cascarilla.js
+A library for giving your website good vibes 🤙✨.

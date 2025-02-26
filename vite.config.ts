@@ -12,7 +12,8 @@ export default defineConfig({
     rollupOptions: {
       external: [],
       output: {
-        globals: {}
+        globals: {},
+        format: 'es'
       }
     }
   },

@@ -1,10 +1,21 @@
 {
   "name": "cascarilla",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A library for giving your website good vibes 🤙✨.",
-  "main": "dist/index.js",
-  "module": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "type": "module",
+  "main": "./dist/cascarilla.umd.js",
+  "module": "./dist/cascarilla.es.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/cascarilla.es.js",
+      "require": "./dist/cascarilla.umd.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CuCodersCommunity/cascarilla.js.git"

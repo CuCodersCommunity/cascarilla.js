@@ -5,8 +5,17 @@
       "target": "ESNext",
       "declaration": true,
       "declarationDir": "dist",
-      "strict": true
+      "strict": true,
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "isolatedModules": true,
+      "emitDeclarationOnly": true,
+      "allowJs": false,
+      "noEmit": false
     },
-    "include": ["src"]
+    "include": ["src/**/*"],
+    "exclude": ["node_modules", "dist"]
   }
   

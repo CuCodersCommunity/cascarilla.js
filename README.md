@@ -1,12 +1,13 @@
-# 🧹 Cascarilla.js: The Vibes Library 🧅
+🧹 `Cascarilla.js: The Cuban Vibes Library` 🧅
+==============================================
 
 🤙✨ Give Your Website Good Vibes and Aché 🤙✨
 
-Cascarilla.js is a library that brings good vibes and aché to your website, setting you up for success from the start 😉. By simply importing this library, you'll be starting your project on the right foot 🌟.
+Cascarilla.js is a library that brings good vibes and aché to your website, setting you up for success from the start 🌟. By simply importing this library, you'll be starting your project on the right foot 😉.
 
-With Cascarilla.js, you automatically get to:
+With Cascarilla.js, you automatically get:
 
-- 🏗️ Less Build Errors 🙌. 
+- 🏗️ Less Build Errors 🙌.
 
 - 💥 Fewer Server Crashes. Keep your servers running smoothly, all the time 🕒.
 
@@ -16,8 +17,9 @@ With Cascarilla.js, you automatically get to:
 
 - 👥 Be part of the Coolest of Cuban Developers 👥.
 
+By using Cascarilla.js your projects will be blessed with good vibes from the start, and you will have rest easily knowing that everything will just be fine. You'll be part of an amazing group of developers also using Cascarilla.js, who value good vibes, aché, and coding awesomeness 😎💅.
 
-By using Cascarilla.js in your projects, you'll be part of an amazing group of developers who value good vibes, aché, and coding awesomeness 😎💅. So why wait? Import Cascarilla.js today and start building amazing things with the coolest of Cuban developers 🌟!
+So, what are you waiting for? Import Cascarilla.js today and start building amazing things with the coolest of the vibes already granted 🌟!
 
 ## 📦 Installation
 

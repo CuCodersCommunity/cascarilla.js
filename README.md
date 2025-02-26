@@ -56,12 +56,16 @@ Contributions are always welcome! If you'd like to contribute to Cascarilla.js, 
 To build Cascarilla.js, you can use the following commands:
 
 ```bash
-npm run build
 pnpm run build
-yarn run build
 ```
 
 This will generate a new build of Cascarilla.js in the `dist` directory.
+
+
+## Credits
+---
+
+Cascarilla.js was created by Alejandro Rivera and the CuCoders Community.
 
 ## Constributors
 ---

@@ -1,5 +1,4 @@
 # 🧹 Cascarilla.js: The Vibes Library 🧅
----
 
 🤙✨ Give Your Website Good Vibes and Aché 🤙✨
 
@@ -21,7 +20,7 @@ With Cascarilla.js, you automatically get to:
 By using Cascarilla.js in your projects, you'll be part of an amazing group of developers who value good vibes, aché, and coding awesomeness 😎💅. So why wait? Import Cascarilla.js today and start building amazing things with the coolest of Cuban developers 🌟!
 
 ## 📦 Installation
----
+
 Cascarilla.js is available on npm, so you can install it with one of the following commands:
 
 ```bash
@@ -31,7 +30,7 @@ yarn add cascarilla
 ```
 
 ## 📖 Usage
----
+
 Once you've installed Cascarilla.js, you can import it into your project and start using its features.
 
 ```javascript
@@ -43,16 +42,16 @@ siacaraa();
 That's it! Feel the good vibes and forget about the bugs and linting frustrations. 🌿🌿
 
 ## 📝 License
----
+
 Cascarilla.js is licensed under the MIT License.
 
 
 ## Contributions
----
+
 Contributions are always welcome! If you'd like to contribute to Cascarilla.js, please feel free to submit a pull request or open an issue on the GitHub repository.
 
 ## Build
----
+
 To build Cascarilla.js, you can use the following commands:
 
 ```bash
@@ -61,14 +60,12 @@ pnpm run build
 
 This will generate a new build of Cascarilla.js in the `dist` directory.
 
+## Authors
 
-## Credits
----
-
-Cascarilla.js was created by Alejandro Rivera and the CuCoders Community.
+Cascarilla.js was an original idea from Alejandro Rivera and the CuCoders Community members.
 
 ## Constributors
----
+
 <a href="https://github.com/CuCodersCommunity/cascarilla.js/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=CuCodersCommunity/cascarilla.js" />
 </a>

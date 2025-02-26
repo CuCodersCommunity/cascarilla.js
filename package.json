@@ -5,12 +5,19 @@
   "main": "cascarilla.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arivvera/cascarilla.js.git"
+    "url": "git+https://github.com/CuCodersCommunity/cascarilla.js.git"
+  },
+  "scripts": {
+    "build": "vite build",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
   },
   "author": "Alejandro Rivera y Comunidad | arivera.dev@proton.me | https://arivvera.github.io",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/arivvera/cascarilla.js/issues"
+    "url": "https://github.com/CuCodersCommunity/cascarilla.js/issues"
   },
-  "homepage": "https://github.com/arivvera/cascarilla.js#readme"
+  "homepage": "https://github.com/CuCodersCommunity/cascarilla.js#readme"
 }

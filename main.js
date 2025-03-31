@@ -1,3 +1,5 @@
-(function () {
-    console.log("✨ This website is using Cascarilla.js 💫");
-})();
+(
+    function () {
+        console.log("✨ This website is using Cascarilla.js 💫");
+    }
+)();

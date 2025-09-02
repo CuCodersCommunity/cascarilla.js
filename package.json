@@ -3,12 +3,12 @@
   "version": "1.0.6",
   "description": "A library for giving your website good vibes 🤙✨.",
   "type": "module",
-  "main": "./dist/cascarilla.cjs",
-  "module": "./dist/cascarilla.es.js",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.es.js",
   "exports": {
     ".": {
-      "import": "./dist/cascarilla.es.js",
-      "require": "./dist/cascarilla.cjs"
+      "import": "./dist/index.es.js",
+      "require": "./dist/index.cjs"
     }
   },
   "files": [

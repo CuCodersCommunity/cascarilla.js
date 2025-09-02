@@ -6,7 +6,7 @@ export default defineConfig({
       entry: 'src/index.js',
       name: 'cascarilla',
       fileName: (format) => `cascarilla.${format}.js`,
-      formats: ['es', 'umd']
+      formats: ['es', 'cjs']
     },
     rollupOptions: {
       external: [],

@@ -3,14 +3,12 @@
   "version": "1.0.6",
   "description": "A library for giving your website good vibes 🤙✨.",
   "type": "module",
-  "main": "./dist/cascarilla.umd.js",
+  "main": "./dist/cascarilla.cjs",
   "module": "./dist/cascarilla.es.js",
-  "types": "./dist/index.d.ts",
   "exports": {
     ".": {
       "import": "./dist/cascarilla.es.js",
-      "require": "./dist/cascarilla.umd.js",
-      "types": "./dist/index.d.ts"
+      "require": "./dist/cascarilla.cjs"
     }
   },
   "files": [
@@ -21,18 +19,12 @@
     "url": "git+https://github.com/CuCodersCommunity/cascarilla.js.git"
   },
   "scripts": {
-    "build": "tsc && vite build",
-    "build:types": "tsc --emitDeclarationOnly",
-    "build:js": "vite build",
-    "build:all": "npm run build:types && npm run build:js",
-    "test": "vitest",
-    "type-check": "tsc --noEmit"
+    "build": "vite build",
+    "test": "vitest"
   },
   "devDependencies": {
     "vite": "^5.4.5",
-    "typescript": "^5.0.0",
-    "@types/node": "^20.0.0",
-    "vite-plugin-dts": "^4.3.0"
+    "vitest": "^1.0.0"
   },
   "author": "Alejandro Rivera y Comunidad | arivera.dev@proton.me | https://arivvera.github.io",
   "license": "MIT",

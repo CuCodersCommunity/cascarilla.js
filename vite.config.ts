@@ -1,10 +1,9 @@
 import { defineConfig } from 'vite';
-import dts from "vite-plugin-dts";
 
 export default defineConfig({
   build: {
     lib: {
-      entry: 'src/index.ts',
+      entry: 'src/index.js',
       name: 'cascarilla',
       fileName: (format) => `cascarilla.${format}.js`,
       formats: ['es', 'umd']
@@ -17,9 +16,4 @@ export default defineConfig({
       }
     }
   },
-  plugins: [
-    dts({
-      insertTypesEntry: true,
-    }),
-  ],
 }); 

@@ -1,6 +1,1 @@
-function s() {
-  console.log("This Website is Blessed with Cascarilla. Aché 🤙✨ ");
-}
-export {
-  s as siacaraa
-};
+console.log("✨ This website is blessed with Cascarilla.js 💫");

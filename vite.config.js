@@ -5,15 +5,12 @@ export default defineConfig({
     lib: {
       entry: 'src/index.js',
       name: 'cascarilla',
-      fileName: (format) => `cascarilla.${format}.js`,
+      fileName: (format) => `index.${format}.js`,
       formats: ['es', 'cjs']
     },
     rollupOptions: {
       external: [],
-      output: {
-        globals: {},
-        format: 'es'
-      }
+      output: { globals: {} }
     }
   },
-}); 
+});

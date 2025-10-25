@@ -1,5 +1,1 @@
-(
-     () => {
-        console.log("✨ This website is using Cascarilla.js 💫");
-    }
-)();
+console.log("✨ This website is using Cascarilla.js 💫");

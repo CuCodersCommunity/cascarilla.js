@@ -1,6 +1,7 @@
-<h1 align="center"><strong>🧅 Cascarilla.js: The Cuban, Vibes Library 🌠</strong></h1>
-  <h2 align="center"><i>🤙 Give your website good vibes and <a href="https://www.google.com/search?q=ach%C3%A9">aché</a> ✨</i></h2>
+<h1 align="center"><strong>🧅 Cascarilla.js</strong></h1>
+<h2 align="center"><i>🤙 The Cuban, Vibes Library 🌠</i></h2>
 
+ 
 *Cascarilla.js* is a library that helps you 🫵 bring good vibes to your website, setting you up for success from the very start 🙂‍↕️. By simply importing this library, you'll be starting your project on the right foot 🤩.
 
 By using *Cascarilla.js*, you automatically get:
@@ -49,9 +50,9 @@ You can also use it as an embedded script, without needing to install it:
 <script src="https://cdn.jsdelivr.net/gh/CuCodersCommunity/cascarilla.js@script/index.js" defer />
 ```
 
-*That's it — You're all set!* 🥳
- 
- 
+<p align="center">🥳 <i>That's it — You're all set!</i> </p>
+<p align="center">✨ <i>Go give your website good vibes and <a href="https://www.google.com/search?q=ach%C3%A9">aché</a></i> 😎</p>
+
 ## 📝 License
 
 *Cascarilla.js is licensed under the MIT License.*

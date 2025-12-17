@@ -1,8 +1,8 @@
-<h1 align="center"><strong>🧅 Cascarilla.js</strong> — 🤙 The Cuban, Vibes Library 🌠</i></h1>
 
-*Cascarilla.js* is a library that helps you 🫵 bring good vibes to your website, setting you up for success from the very start. By simply importing this library, you'll be starting your project on the right foot 🤩.
+<h1 align="center">🧅 Cascarilla.js — <em>The Cuban, vibes library</em> 🌠</h1>
 
-By using *Cascarilla.js*, you automatically get:
+
+Cascarilla.js is a library that helps you 🫵 bring good vibes to your website, setting you up for success from the very start 🏁. By using it you'll be starting your project on the right foot 👟, and automatically get 🤩:
 
 - 🏗️ Less Build Errors 🙌.
 
@@ -14,9 +14,9 @@ By using *Cascarilla.js*, you automatically get:
 
 - 👥 To be part of the coolest of Cuban developers, wherever you are  😉.
 
-With *Cascarilla.js* your projects will be blessed with good vibes from the very start, and you will rest in peace knowing that everything will just be fine 🙂. You'll be part of an amazing group of developers who also value good vibes, [aché](https://www.google.com/search?q=aché), and coding awesomeness 😎💅.
+With Cascarilla.js your projects will be blessed with good vibes from the very start, and you will rest in peace knowing that everything will just be fine 🙂. You'll be part of an amazing group of developers who also value good vibes, [aché](https://www.google.com/search?q=aché), and coding awesomeness 💅.
 
-So, what are you waiting for? Import *Cascarilla.js* today and start building amazing things with the coolest of the vibes 🌟! 
+*So, what are you waiting for? Import Cascarilla.js and start building amazing things with the coolest of the vibes 🌟!* 
 
 ## 📦 Installation
 
@@ -48,7 +48,7 @@ You can also use it as an embedded script, without needing to install it:
 <script src="https://cdn.jsdelivr.net/gh/CuCodersCommunity/cascarilla.js@script/index.js" defer />
 ```
 
-😎 That's it — You're all set! — Enjoy 🥳
+😎 *That's it — You're all set! — Enjoy* 🥳
 
 ## 📝 License
 

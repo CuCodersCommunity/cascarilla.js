@@ -1,6 +1,4 @@
-
 <h1 align="center">🧅 Cascarilla.js — <em>The Cuban, vibes library</em> 🌠</h1>
-
 
 Cascarilla.js is a library that helps you 🫵 bring good vibes to your website, setting you up for success from the very start 🏁. By using it you'll be starting your project on the right foot 👟, and automatically get 🤩:
 

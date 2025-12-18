@@ -14,7 +14,7 @@ Cascarilla.js is a library that helps you 🫵 bring good vibes to your website,
 
 With Cascarilla.js your projects will be blessed with good vibes from the very start, and you will rest in peace knowing that everything will just be fine 🙂. You'll be part of an amazing group of developers who also value good vibes, [aché](https://www.google.com/search?q=aché), and coding awesomeness 💅.
 
-*So, what are you waiting for? Import Cascarilla.js and start building amazing things with the coolest of the vibes 🌟!* 
+So, what are you waiting for? Import Cascarilla.js and start building amazing things with the coolest of the vibes 🌟!
 
 ## 📦 Installation
 
@@ -50,7 +50,7 @@ You can also use it as an embedded script, without needing to install it:
 
 ## 📝 License
 
-*Cascarilla.js is licensed under the MIT License.*
+Cascarilla.js is licensed under the MIT License.
 
 ## 🤝 Contributions
 

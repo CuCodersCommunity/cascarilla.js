@@ -58,7 +58,7 @@ Contributions are always welcome! If you'd like to contribute to Cascarilla.js, 
 
 ## ©️ Authors
 
-Cascarilla.js was an original idea from *[Alejandro Rivera](https://github.com/arivvera)* and the *[CuCoders](https://t.me/CuCodersComunidad)* community.
+Cascarilla.js was an original idea from *[Alejandro Rivera](https://github.com/arivvera)* and the *[CuCoders Community](https://t.me/CuCodersComunidad)*.
 
 ## 👥 Contributors
   

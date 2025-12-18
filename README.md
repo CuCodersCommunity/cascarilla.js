@@ -18,7 +18,7 @@ With Cascarilla.js your projects will be blessed with good vibes from the very s
 
 ## 📦 Installation
 
-*Cascarilla.js* is available as a package on [npm](https://www.npmjs.com/package/cascarilla). You can install it with one of the following commands, depending on your package manager:
+Cascarilla.js is available as a package on [npm](https://www.npmjs.com/package/cascarilla). You can install it with one of the following commands, depending on your package manager:
 
 ``` bash
 npm install cascarilla
@@ -54,7 +54,7 @@ You can also use it as an embedded script, without needing to install it:
 
 ## 🤝 Contributions
 
-Contributions are always welcome! If you'd like to contribute to *Cascarilla.js*, please feel free to submit a pull request or open an issue on the GitHub repository 😁.
+Contributions are always welcome! If you'd like to contribute to Cascarilla.js, please feel free to submit a pull request or open an issue on the GitHub repository 😁.
 
 ## ©️ Authors
 

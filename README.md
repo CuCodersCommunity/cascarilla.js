@@ -46,7 +46,7 @@ You can also use it as an embedded script, without needing to install it:
 <script src="https://cdn.jsdelivr.net/gh/CuCodersCommunity/cascarilla.js@script/index.js" defer />
 ```
 
-😎 *That's it — You're all set! — Enjoy* 🥳
+😎 That's it — You're all set! — Enjoy 🥳
 
 ## 📝 License
 
